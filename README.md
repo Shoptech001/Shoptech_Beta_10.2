@@ -1,5 +1,5 @@
 # Shoptech_Beta_10.2
-
+#  LIDER: jonathan dsr
 Este é o repositório oficial para o projeto Shoptech. Aqui você encontrará informações sobre o projeto, documentação e muito mais.
 
 ## Descrição
