@@ -1,0 +1,36 @@
+.menu{
+    padding: 55px;
+    background-color: rgba(17, 134, 86, 0.973);
+    height: 35px;
+    width: 140px;
+
+}
+.menu{
+        display: flex;
+}
+.menu2 div{
+    background-color: rgb(17, 218, 151);
+    padding: 28px;
+    height: 12px;
+    width: 70px;
+
+}
+button{
+    color: rgb(255, 255, 255);
+    background-color: transparent;
+    font-size: 20px;
+    border: none;
+    position: relative; top: 40px; left: 7px;
+    padding: 0%;
+}
+.menu #i1{
+    position: fixed; top: 40px; left: 100px;
+    font-size: 55px;
+    color: aliceblue;
+}
+.telainicio{
+     background-color: rgba(127, 255, 212, 0.671);
+     height: 644px;
+}
+
+
